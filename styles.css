@@ -1,0 +1,19 @@
+body {
+            background-color: peachpuff
+            }
+
+            hr {
+            border-style: none;
+            border-color: white;
+            border-top-style: dotted;
+            border-width: 5px;
+            width: 10%;
+            }
+
+            h1 {
+            color: lightblue;
+            }
+
+            h3 {
+            color: lightblue;
+            }
